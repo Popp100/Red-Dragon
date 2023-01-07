@@ -32,7 +32,7 @@ global.doc6 = 'application/vnd.android.package-archive'
 global.vcardowner = ['+224620780851'] // owner number
 global.ownername = "Hyoudou-Issei" // owner name
 global.ytname = "" // yt chanel name
-global.socialm = "GitHub: prabhasha2006" // github or insta name
+global.socialm = "GitHub: Popp100" // github or insta name
 global.location = "India, Mizoram, Aizawl" // location
 
 //bot body 
@@ -56,7 +56,7 @@ global.dragonemoji = '🧩' // Menu emoji
 global.footer = '[ ◉ vali-lucifer-ᴍᴅ ]' //
 
 //database
-global.premium = ['+380944814219'] //ur premium numbers
+global.premium = ['+22891442720'] //ur premium numbers
 
 //other
 global.sessionName = 'session'
